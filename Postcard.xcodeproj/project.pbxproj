@@ -14,6 +14,8 @@
 		D2EDDB5A1ACDAA210057D9BA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2EDDB591ACDAA210057D9BA /* Images.xcassets */; };
 		D2EDDB5D1ACDAA210057D9BA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D2EDDB5B1ACDAA210057D9BA /* LaunchScreen.xib */; };
 		D2EDDB691ACDAA210057D9BA /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2EDDB681ACDAA210057D9BA /* PostcardTests.swift */; };
+		D2EDDB741ACDAC710057D9BA /* tumblr_m73s25vmti1qg3iveo1_500.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2EDDB721ACDAC710057D9BA /* tumblr_m73s25vmti1qg3iveo1_500.jpg */; };
+		D2EDDB751ACDAC710057D9BA /* tumblr_mbf23qQ9ab1rc5578o1_1280.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D2EDDB731ACDAC710057D9BA /* tumblr_mbf23qQ9ab1rc5578o1_1280.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		D2EDDB621ACDAA210057D9BA /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2EDDB671ACDAA210057D9BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D2EDDB681ACDAA210057D9BA /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		D2EDDB721ACDAC710057D9BA /* tumblr_m73s25vmti1qg3iveo1_500.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tumblr_m73s25vmti1qg3iveo1_500.jpg; sourceTree = "<group>"; };
+		D2EDDB731ACDAC710057D9BA /* tumblr_mbf23qQ9ab1rc5578o1_1280.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tumblr_mbf23qQ9ab1rc5578o1_1280.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +97,8 @@
 		D2EDDB4D1ACDAA210057D9BA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D2EDDB721ACDAC710057D9BA /* tumblr_m73s25vmti1qg3iveo1_500.jpg */,
+				D2EDDB731ACDAC710057D9BA /* tumblr_mbf23qQ9ab1rc5578o1_1280.jpg */,
 				D2EDDB4E1ACDAA210057D9BA /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -198,6 +204,8 @@
 				D2EDDB581ACDAA210057D9BA /* Main.storyboard in Resources */,
 				D2EDDB5D1ACDAA210057D9BA /* LaunchScreen.xib in Resources */,
 				D2EDDB5A1ACDAA210057D9BA /* Images.xcassets in Resources */,
+				D2EDDB751ACDAC710057D9BA /* tumblr_mbf23qQ9ab1rc5578o1_1280.jpg in Resources */,
+				D2EDDB741ACDAC710057D9BA /* tumblr_m73s25vmti1qg3iveo1_500.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
